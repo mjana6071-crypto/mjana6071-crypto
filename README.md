@@ -12,12 +12,6 @@
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
   <br> 
 
-  <details>
-    <summary><strong> 🎵 Coding & Vibing to... </strong></summary>
-    <br>
-    [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-  </details>
-
   ![Profile Views](https://komarev.com/ghpvc/?username=Jana-Dev&style=flat-square&color=ff69b4&label=PROFILE+VIEWS)
   <br>
 </div>
