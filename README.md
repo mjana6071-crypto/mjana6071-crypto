@@ -3,7 +3,7 @@
   <h1>Hi, I'm Jana🩷</h1>
   <p><strong>Full Stack Web Developer | Angular & .NET Specialist | Software Testing Enthusiast</strong></p>
   
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/jana-mohamed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <br><br>
