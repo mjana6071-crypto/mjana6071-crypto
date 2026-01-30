@@ -31,7 +31,7 @@
 
 <hr>
 
-<center>![tools_I_use](https://img.shields.io/badge/-%F0%9F%9B%A0%20Tech%20Stack-ff69b4)<center/>
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9B%A0%20Tech%20Stack-ff69b4)
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
