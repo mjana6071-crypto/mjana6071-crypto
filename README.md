@@ -3,10 +3,7 @@
   <h1>Hi, I'm Jana🩷</h1>
   <p><strong>Full Stack Web Developer | Angular & .NET Specialist | Software Testing Enthusiast</strong></p>
   
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jana-mohamed-b90bb8384?utm_sourca=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
+  
 
 <a href="https://www.linkedin.com/in/jana-mohamed-b90bb8384" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
