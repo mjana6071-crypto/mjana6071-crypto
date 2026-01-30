@@ -11,7 +11,7 @@
 
   
   
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
+  
   <br> 
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Jana-Dev&style=flat-square&color=ff69b4&label=PROFILE+VIEWS)
