@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders?raw=true" width="60%"/> 
+  <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders?raw=true" width="60%"/>  -->
   <br>
   <h1>Hi, I'm Jana🩷</h1>
   <p><strong>Full Stack Web Developer | Angular & .NET Specialist | Software Testing Enthusiast</strong></p>
