@@ -9,8 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-![Penguin](https://media.giphy.com/media/hS3OLE6aQC9ix9I6Z7/giphy.gif)
-
   
   
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
