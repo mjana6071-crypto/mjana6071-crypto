@@ -26,7 +26,9 @@
 - ⚙️ **Backend:** Developing robust APIs using **.NET**.
 - 🧪 **Quality:** Focused on **Software Testing** to ensure bug-free code.
 - 📚 **Current Status:** Currently sharpening my skills and preparing for my first big project!
-
+### 🛠 Skills
+* 🌐 Web Development (HTML/CSS)
+* 🚀 Learning **C++**
 <hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9B%A0%20Tech%20Stack-ff69b4)
@@ -41,7 +43,7 @@
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 ```csharp
 // My Tech Profile
 var jana = new Developer {
