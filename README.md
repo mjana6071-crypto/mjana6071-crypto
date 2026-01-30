@@ -1,14 +1,5 @@
 <div align="center">
-  <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>  -->
-  # عرض الصورة المتحركة
-echo -e "\e[1;32m"
-curl -s https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif
-echo -e "\e[0m"
-
-# نص الترحيب
-echo "------------------------------------------"
-echo "           HELLO CODERS!                  "
-echo "------------------------------------------"
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> 
   <br>
   <h1>Hi, I'm Jana🩷</h1>
   <p><strong>Full Stack Web Developer | Angular & .NET Specialist | Software Testing Enthusiast</strong></p>
