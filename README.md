@@ -10,7 +10,7 @@
 </a>
 
 
-<a href="https://https://mjana6071-crypto.github.io/portfolio/" target="_blank">
+<a href="https://mjana6071-crypto.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
   
