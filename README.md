@@ -8,8 +8,6 @@
 <a href="https://www.linkedin.com/in/jana-mohamed-b90bb8384" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
-
 <a href="https://mjana6071-crypto.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
